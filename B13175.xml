@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation declaring His Majesties gracious pardon to such of the late mutiners at Farringdon, as shall render themselves by the dayes herein limited: and for the apprehension, and due punishment of the principall actors therein.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13175</idno><idno type="EEBO-CITATION">99892722</idno>
+  <idno type="VID">188387</idno>
+  <idno type="EEBO-PROQUEST">2240920920</idno>
+  
+            <idno type="STC">STC 9162</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[35]</idno>
+            <idno type="STC">ESTC S123900</idno>
+            <idno type="PROQUEST">ocm99892722</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892722e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188387)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation declaring His Majesties gracious pardon to such of the late mutiners at Farringdon, as shall render themselves by the dayes herein limited: and for the apprehension, and due punishment of the principall actors therein.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majesty: and by the assignes of John Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1640.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: ... VVhitehall, the first day of July, in the sixteenth yeer of His Majesties reign.</note>
+                  <note>Arms 24; Steele notation: His in 2) said this</note>
+                  <note>Copy is torn at edge affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Mutiny --  England --  Early works to 1800.</term>
+               <term type="topical_term">Pardon --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188387:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>❧ A Proclamation declaring His Majesties gra<g ref="char:EOLhyphen"/>cious Pardon to such of the late Mutiners at Farringdon, as shall render themselves by the dayes herein limited: And for the apprehen<g ref="char:EOLhyphen"/>sion, and due punishment of the principall Actors therein.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Souldiers lately Presled in the County of <hi>Dorset,</hi> for His Majesties Service, in this Expedition into the Northern parts, Did in their passage thorow the Countie of <hi>Berks,</hi> and in or neer the Town of <hi>Farringdon,</hi> (being in number six hundred men, or thereabouts) fall into an insolent and desperate Mutiny; I<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which (amongst other outrages by them committed) they d<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> most cruelly murder Lieutenant <hi>Mohun,</hi> one of their Officers, and in a most barbarous and inhumane manner dragged him thorow the Streets, and after hanged up his dead body: His Majestie out of His Princely care that an offence of this nature, and of such evil consequence, should not escape unpunished, hath caused <hi>John Ludlow, Humphrey Edwards,</hi> and <hi>Robert Thrillcott,</hi> three of the principall Actors, to be apprehended and committed to prison; And His Majestie doth hereby straitly charge and command all His loyall and loving Subjects to use their utmost diligence and endeavour, for the discovery and apprehension of <hi>John Lock, John Gates, Jeffery Stacy, William Garlant, Richard Tyce, Christopher Frampton, John Parsons, Robert Dibbin, William Bunn,</hi> and <hi>Christopher Drodge,</hi> wh<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were likewise principall Moovers and Actors in the same Mutiny and Murder, and to br<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> them before His Majesties Iustices of Peace, or other Magistrates, whereby they may <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> delivered into the hands of Iustice, and receive due punishment according to the merit<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their offences so barbarous and bloody.</p>
+            <pb facs="tcp:188387:2"/>
+            <p>And howsoever all the rest or those persons that were present at the murder of the said Lieutenant <hi>Mohun,</hi> and assented thereunto, by the Lawes of this Realm are adjudged Prin<g ref="char:EOLhyphen"/>cipals, and have thereby incurred the same penaltie of the Law; Yet His Majestie, out of His abundant clementie, being rather inclined to a course of mercy towards them (as most agreeable to His Princely nature) then the taking of so much blood as would be shed if he should leave them all to the just Censure of the Law; Is pleased hereby to declare and publish His Royall tender of Grace and Pardon to all such of those six hundred Souldier<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (other then the persons before named) who were guiltie of the said late Mutinie and Mu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der committed at <hi>Farringdon</hi> in the said Countie of <hi>Berks,</hi> as either before the thirteenth day <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Iuly now next coming, shall repair to <hi>Blandford</hi> in the said Countie of <hi>Dorset,</hi> and th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> tender themselves to His Majesties Deputie Lieutenants of the said Countie, or before th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> five and twentieth day of Iuly next shall render themselves to Sir <hi>Jacob Ashley,</hi> Serjeant Major Generall of His Majesties Armie, at the Quarters at or neer <hi>Selby</hi> in <hi>Yorkshire,</hi> to be again received and imployed for His Majesties Service.</p>
+            <p>And His Majestie doth hereby further will and require all Iustices of Peace, Majors, Sheriffs, Bayliffs, Constables, Headboroughs, and other His Officers and Ministers, to apprehend and commit to prison all such of the said persons as shall not by the severall dayes before limited render themselves, and lay hold of this His Majesties gracious Pardon.</p>
+            <p>Neverthelesse His Majesties pleasure is, that the said <hi>John Ludlow, Robert Thrillcott, John Lock, John Gates, Jeffery Stacy, William Garlant, Richard Tyce, Humphrey Edwards, Christoph<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Frampton, John Parsons, Robert Dibbin, William Bunn,</hi> and <hi>Christopher Drodge,</hi> (the said prin<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> pall Moovers and Actors in that foul Mutiny and murder) shall have no part in th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> His Majesties Royall tender of mercy and Pardon.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Court at Whitehall, </hi>
+                  <date>
+                     <hi>the first day of July, in the sixteenth yeer of His Majesties Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>❧ God save the King.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most excellent Majesty: And by the Assignes of JOHN BILL. 1640.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
